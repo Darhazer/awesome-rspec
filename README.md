@@ -5,6 +5,7 @@ A curated list of awesome RSpec-related resources
 ## Contents
 - [RSpec](#rspec)
 - [Style guides and linters](#style-guides-and-linters)
+- [Books](#books)
 - [Matchers](#matchers)
 - [Tools](#tools)
 
