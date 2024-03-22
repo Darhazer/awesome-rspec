@@ -34,6 +34,8 @@ A curated list of awesome RSpec-related resources
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) One-liners to test common Rails functionality.
 
 ## Tools:
+- [active_mocker](https://github.com/zeisler/active_mocker) Creates stub classes from any ActiveRecord model.
+- [database_rewinder](https://github.com/amatsuda/database_rewinder) Minimalist and ultra-fast database cleaner.
 - [factory_bot](https://github.com/thoughtbot/factory_bot) A library for building database records.
 - [factory_trace](https://github.com/djezzzl/factory_trace) Simple tool to maintain factories and traits from FactoryBot.
 - [mutant](https://github.com/mbj/mutant) Mutation testing.
