@@ -30,6 +30,8 @@ A curated list of awesome RSpec-related resources
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) One-liners to test common Rails functionality.
 
 ## Tools:
-- [factory_bot](https://github.com/thoughtbot/factory_bot) A library for building database records
+- [factory_bot](https://github.com/thoughtbot/factory_bot) A library for building database records.
+- [mutant](https://github.com/mbj/mutant) Mutation testing.
+- [rspectre](https://github.com/dgollahon/rspectre) Tool to remove unused parts of the specs.
 - [vcr](https://github.com/vcr/vcr) Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [test_prof](https://github.com/test-prof/test-prof) Tools to analyze test suite performance +helpers to write faster tests.
