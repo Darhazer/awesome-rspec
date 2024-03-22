@@ -34,6 +34,6 @@ A curated list of awesome RSpec-related resources
 - [factory_bot](https://github.com/thoughtbot/factory_bot) A library for building database records.
 - [mutant](https://github.com/mbj/mutant) Mutation testing.
 - [rspectre](https://github.com/dgollahon/rspectre) Tool to remove unused parts of the specs.
-- [stub_env](https://github.com/ljkbennett/stub_env) Simple helper method to stub ENV values within RSpec tests.
+- [rspec-stubbed_env](https://github.com/pboling/rspec-stubbed_env/) Simple helper method to stub ENV values within RSpec tests.
 - [test_prof](https://github.com/test-prof/test-prof) Tools to analyze test suite performance +helpers to write faster tests.
 - [vcr](https://github.com/vcr/vcr) Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
