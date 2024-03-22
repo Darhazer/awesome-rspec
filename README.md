@@ -19,6 +19,7 @@ A curated list of awesome RSpec-related resources
 
 ## Books
 - [Effective testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
+- [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)
 
 ## Matchers:
 - [action_mailer_matchers](https://github.com/contently/action_mailer_matchers) RSpec matchers to test Rails' common ActionMailer functionality.
