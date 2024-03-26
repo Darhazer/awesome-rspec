@@ -22,6 +22,7 @@ A curated list of awesome RSpec-related resources
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)
 
 ## Matchers
+- [rspec-any_of](https://github.com/toptal/rspec-any_of) - Provides `any_of` and `all_of` matchers.
 - [action_mailer_matchers](https://github.com/contently/action_mailer_matchers) - RSpec matchers to test Rails' common ActionMailer functionality.
 - [active_record_block_matchers](https://github.com/nwallace/active_record_block_matchers) - Custom RSpec matchers for ActiveRecord record creation.
 - [db-query-matchers](https://github.com/sds/db-query-matchers) - RSpec matchers for database queries made by ActiveRecord.
@@ -36,6 +37,7 @@ A curated list of awesome RSpec-related resources
 
 ## Tools
 - [active_mocker](https://github.com/zeisler/active_mocker) - Creates stub classes from any ActiveRecord model.
+- [crystallball](https://github.com/toptal/crystalball) - Regression Test Selection library for your RSpec test suite.
 - [database_rewinder](https://github.com/amatsuda/database_rewinder) - Minimalist and ultra-fast database cleaner.
 - [factory_bot](https://github.com/thoughtbot/factory_bot) - A library for building database records.
 - [factory_trace](https://github.com/djezzzl/factory_trace) - Simple tool to maintain factories and traits from FactoryBot.
