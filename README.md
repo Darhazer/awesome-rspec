@@ -31,6 +31,7 @@ A curated list of awesome RSpec-related resources
 - [pundit-matchers](https://github.com/pundit-community/pundit-matchers) - A set of RSpec matchers for testing Pundit authorisation policies.
 - [resque_spec](https://github.com/leshill/resque_spec) - A test double of Resque for RSpec.
 - [rspec-graphql_matchers](https://github.com/khamusa/rspec-graphql_matchers) - GraphQL matchers.
+- [rspec-json_matchers](https://github.com/PikachuEXE/rspec-json_matchers) - A collection of RSpec matchers for testing JSON data.
 - [rspec-benchmark](https://github.com/piotrmurach/rspec-benchmark) - Performance testing matchers for RSpec.
 - [rspec-sidekiq](https://github.com/wspurgin/rspec-sidekiq) - Simple testing of Sidekiq jobs via a collection of matchers and helpers.
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - One-liners to test common Rails functionality.
@@ -48,3 +49,4 @@ A curated list of awesome RSpec-related resources
 - [super-diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [test-prof](https://github.com/test-prof/test-prof) - Tools to analyze test suite performance +helpers to write faster tests.
 - [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+- [yardspec](https://github.com/r7kamura/yardspec) Run RSpec examples embedded in yard
