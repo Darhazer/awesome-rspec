@@ -46,6 +46,7 @@ A curated list of awesome RSpec-related resources
 - [rspectre](https://github.com/dgollahon/rspectre) - Tool to remove unused parts of the specs.
 - [rspec-stubbed_env](https://github.com/pboling/rspec-stubbed_env/) - Simple helper method to stub ENV values within RSpec tests.
 - [spy](https://github.com/ryanong/spy) - A simple opinionated mocking framework.
+- [stub_shell](https://github.com/stackbuilders/stub_shell/) - Helps you to test your libraries that interact with the system through the Kernel backquote and system methods.
 - [super-diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [test-prof](https://github.com/test-prof/test-prof) - Tools to analyze test suite performance +helpers to write faster tests.
 - [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
