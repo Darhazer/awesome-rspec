@@ -57,6 +57,7 @@ A curated list of awesome RSpec-related resources
 ## Tools
 - [crystallball](https://github.com/toptal/crystalball) - Regression Test Selection library for your RSpec test suite.
 - [database_rewinder](https://github.com/amatsuda/database_rewinder) - Minimalist and ultra-fast database cleaner.
+- [dockerspec](https://github.com/zuazo/dockerspec) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
 - [factory_bot](https://github.com/thoughtbot/factory_bot) - A library for building database records.
 - [factory_trace](https://github.com/djezzzl/factory_trace) - Simple tool to maintain factories and traits from FactoryBot.
 - [mutant](https://github.com/mbj/mutant) - Mutation testing.
