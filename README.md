@@ -7,6 +7,7 @@ A curated list of awesome RSpec-related resources
 - [Style guides and linters](#style-guides-and-linters)
 - [Books](#books)
 - [Matchers](#matchers)
+- [Mocks](#mocks)
 - [Tools](#tools)
 
 ## RSpec
@@ -36,17 +37,30 @@ A curated list of awesome RSpec-related resources
 - [rspec-sidekiq](https://github.com/wspurgin/rspec-sidekiq) - Simple testing of Sidekiq jobs via a collection of matchers and helpers.
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - One-liners to test common Rails functionality.
 
-## Tools
+## Mocks
 - [active_mocker](https://github.com/zeisler/active_mocker) - Creates stub classes from any ActiveRecord model.
+- [bunny-mock](https://github.com/arempe93/bunny-mock) - A mock client for RabbitMQ modeled after the Bunny client in ruby.
+- [mock_redis](https://github.com/sds/mock_redis) -MockRedis provides the same interface as redis-rb, but it stores its data in memory instead of talking to a Redis server.
+- [mock5](https://github.com/rwz/mock5) - Create and manage API mocks with Sinatra.
+- [moctail](https://github.com/testdouble/mocktail) - A mocking library for Ruby built with modern Ruby 3 APIs and with first-class support for type checking with Sorbet.
+- [mosoco](https://github.com/frodsan/mocoso) - A minimalist stub & mock library.
+- [rspec-stubbed_env](https://github.com/pboling/rspec-stubbed_env/) - Simple helper method to stub ENV values within RSpec tests.
+- [resque-mock](https://github.com/danp/resque-mock) - Resque mocking without redis.
+- [ruby-dns-mock](https://github.com/mocktools/ruby-dns-mock) - Mimic any DNS records for your test environment with fake DNS server.
+- [ruby-smtp-mock](https://github.com/mocktools/ruby-smtp-mock) - Mimic any SMTP server behaviour for your test environment with fake SMTP server.
+- [spy](https://github.com/ryanong/spy) - A simple opinionated mocking framework.
+- [stripe-ruby-mock](https://github.com/stripe-ruby-mock/stripe-ruby-mock) - A mocking library for testing Stripe integration.
+- [stub_shell](https://github.com/stackbuilders/stub_shell/) - Helps you to test your libraries that interact with the system through the Kernel backquote and system methods.
+- [testftpd](https://github.com/christian-schulze/testftpd) - Simple FTP server written in pure Ruby, allowing integration testing of FTP client code without mocks and stubs.
+- [verified_double](https://github.com/gsmendoza/verified_double) Contract tests for mocks.
+
+## Tools
 - [crystallball](https://github.com/toptal/crystalball) - Regression Test Selection library for your RSpec test suite.
 - [database_rewinder](https://github.com/amatsuda/database_rewinder) - Minimalist and ultra-fast database cleaner.
 - [factory_bot](https://github.com/thoughtbot/factory_bot) - A library for building database records.
 - [factory_trace](https://github.com/djezzzl/factory_trace) - Simple tool to maintain factories and traits from FactoryBot.
 - [mutant](https://github.com/mbj/mutant) - Mutation testing.
 - [rspectre](https://github.com/dgollahon/rspectre) - Tool to remove unused parts of the specs.
-- [rspec-stubbed_env](https://github.com/pboling/rspec-stubbed_env/) - Simple helper method to stub ENV values within RSpec tests.
-- [spy](https://github.com/ryanong/spy) - A simple opinionated mocking framework.
-- [stub_shell](https://github.com/stackbuilders/stub_shell/) - Helps you to test your libraries that interact with the system through the Kernel backquote and system methods.
 - [super-diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [test-prof](https://github.com/test-prof/test-prof) - Tools to analyze test suite performance +helpers to write faster tests.
 - [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
