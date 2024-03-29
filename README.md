@@ -35,6 +35,7 @@ A curated list of awesome RSpec-related resources
 - [rspec-json_matchers](https://github.com/PikachuEXE/rspec-json_matchers) - A collection of RSpec matchers for testing JSON data.
 - [rspec-benchmark](https://github.com/piotrmurach/rspec-benchmark) - Performance testing matchers for RSpec.
 - [rspec-sidekiq](https://github.com/wspurgin/rspec-sidekiq) - Simple testing of Sidekiq jobs via a collection of matchers and helpers.
+- [rspec-sqlimit](https://github.com/nepalez/rspec-sqlimit) - RSpec matcher to control SQL queries made by block of code.
 - [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) - One-liners to test common Rails functionality.
 
 ## Mocks
