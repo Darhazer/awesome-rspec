@@ -8,7 +8,7 @@ A curated list of awesome RSpec-related resources
 - [Books](#books)
 - [Matchers](#matchers)
 - [Mocks](#mocks)
-- [Parallel execution](#parallel-exection)
+- [Parallel execution](#parallel-execution)
 - [Tools](#tools)
 
 ## RSpec
