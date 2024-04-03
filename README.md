@@ -8,6 +8,7 @@ A curated list of awesome RSpec-related resources
 - [Books](#books)
 - [Matchers](#matchers)
 - [Mocks](#mocks)
+- [Paralel execution](#paralel-exection)
 - [Tools](#tools)
 
 ## RSpec
@@ -53,7 +54,14 @@ A curated list of awesome RSpec-related resources
 - [stripe-ruby-mock](https://github.com/stripe-ruby-mock/stripe-ruby-mock) - A mocking library for testing Stripe integration.
 - [stub_shell](https://github.com/stackbuilders/stub_shell/) - Helps you to test your libraries that interact with the system through the Kernel backquote and system methods.
 - [testftpd](https://github.com/christian-schulze/testftpd) - Simple FTP server written in pure Ruby, allowing integration testing of FTP client code without mocks and stubs.
-- [verified_double](https://github.com/gsmendoza/verified_double) Contract tests for mocks.
+- [verified_double](https://github.com/gsmendoza/verified_double) - Contract tests for mocks.
+
+## Paralel execution
+- [flatware](https://github.com/briandunn/flatware) - A parallel test runner for RSpec and Cucumber with pretty output.
+- [knapsack](https://github.com/KnapsackPro/knapsack) - Knapsack splits tests evenly across parallel CI nodes to run fast CI build and save you time.
+- [parallel_tests](https://github.com/grosser/parallel_tests) - Speedup tests by running parallel on multiple CPU cores.
+- [rspecq](https://github.com/skroutz/rspecq) - Distribute and run RSpec suites among parallel workers; for faster CI builds.
+- [test-queue](https://github.com/tmm1/test-queue) - Parallel test runner for CI environments
 
 ## Tools
 - [crystallball](https://github.com/toptal/crystalball) - Regression Test Selection library for your RSpec test suite.
