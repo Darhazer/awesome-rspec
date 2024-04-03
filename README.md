@@ -8,7 +8,7 @@ A curated list of awesome RSpec-related resources
 - [Books](#books)
 - [Matchers](#matchers)
 - [Mocks](#mocks)
-- [Paralel execution](#paralel-exection)
+- [Parallel execution](#parallel-exection)
 - [Tools](#tools)
 
 ## RSpec
@@ -57,7 +57,7 @@ A curated list of awesome RSpec-related resources
 - [testftpd](https://github.com/christian-schulze/testftpd) - Simple FTP server written in pure Ruby, allowing integration testing of FTP client code without mocks and stubs.
 - [verified_double](https://github.com/gsmendoza/verified_double) - Contract tests for mocks.
 
-## Paralel execution
+## Parallel execution
 - [flatware](https://github.com/briandunn/flatware) - A parallel test runner for RSpec and Cucumber with pretty output.
 - [knapsack](https://github.com/KnapsackPro/knapsack) - Knapsack splits tests evenly across parallel CI nodes to run fast CI build and save you time.
 - [parallel_tests](https://github.com/grosser/parallel_tests) - Speedup tests by running parallel on multiple CPU cores.
