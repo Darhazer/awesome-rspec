@@ -65,14 +65,18 @@ A curated list of awesome RSpec-related resources
 - [test-queue](https://github.com/tmm1/test-queue) - Parallel test runner for CI environments
 
 ## Tools
+- [chefspec](https://github.com/chefspec/chefspec) - Write RSpec examples and generate coverage reports for Chef recipes.
 - [crystallball](https://github.com/toptal/crystalball) - Regression Test Selection library for your RSpec test suite.
+- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.
 - [database_rewinder](https://github.com/amatsuda/database_rewinder) - Minimalist and ultra-fast database cleaner.
 - [dockerspec](https://github.com/zuazo/dockerspec) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
 - [factory_bot](https://github.com/thoughtbot/factory_bot) - A library for building database records.
 - [factory_trace](https://github.com/djezzzl/factory_trace) - Simple tool to maintain factories and traits from FactoryBot.
 - [mutant](https://github.com/mbj/mutant) - Mutation testing.
 - [rspectre](https://github.com/dgollahon/rspectre) - Tool to remove unused parts of the specs.
+- [rspec_tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.
 - [super-diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [test-prof](https://github.com/test-prof/test-prof) - Tools to analyze test suite performance +helpers to write faster tests.
 - [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
+- [with_model](https://github.com/Casecommons/with_model) - Dynamically build an Active Record model (with table) within a test context.
 - [yardspec](https://github.com/r7kamura/yardspec) Run RSpec examples embedded in yard
