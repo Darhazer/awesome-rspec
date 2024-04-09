@@ -6,6 +6,7 @@ A curated list of awesome RSpec-related resources
 - [RSpec](#rspec)
 - [Style guides and linters](#style-guides-and-linters)
 - [Books](#books)
+- [Articles](#articles)
 - [Matchers](#matchers)
 - [Mocks](#mocks)
 - [Parallel execution](#parallel-execution)
@@ -22,6 +23,11 @@ A curated list of awesome RSpec-related resources
 ## Books
 - [Effective testing with RSpec 3](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
 - [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)
+
+## Articles
+- [How to Test Rails Models with RSpec](https://semaphoreci.com/community/tutorials/how-to-test-rails-models-with-rspec)
+- [How to Use Custom RSpec Matchers to Specify Behaviour](https://semaphoreci.com/community/tutorials/how-to-use-custom-rspec-matchers-to-specify-behaviour)
+- [Using RSpec Metadata](https://semaphoreci.com/community/tutorials/using-rspec-metadata)
 
 ## Matchers
 - [rspec-any_of](https://github.com/toptal/rspec-any_of) - Provides `any_of` and `all_of` matchers.
