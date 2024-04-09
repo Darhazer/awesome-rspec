@@ -77,8 +77,11 @@ A curated list of awesome RSpec-related resources
 - [database_rewinder](https://github.com/amatsuda/database_rewinder) - Minimalist and ultra-fast database cleaner.
 - [dockerspec](https://github.com/zuazo/dockerspec) - A small Ruby Gem to run RSpec and Serverspec, Infrataster and Capybara tests against Dockerfiles or Docker images easily.
 - [factory_bot](https://github.com/thoughtbot/factory_bot) - A library for building database records.
+- [factory_bot_instruments](https://github.com/shiroyasha/factory_bot_instruments) - Instruments for benchmarking, tracing, and debugging Factory Girl models.
 - [factory_trace](https://github.com/djezzzl/factory_trace) - Simple tool to maintain factories and traits from FactoryBot.
+- [impersonator](https://github.com/jorgemanrubia/impersonator) - Ruby library to record and replay object interactions.
 - [mutant](https://github.com/mbj/mutant) - Mutation testing.
+- [retest](https://github.com/AlexB52/retest) - A simple CLI to watch file changes and run their matching ruby specs.
 - [rspectre](https://github.com/dgollahon/rspectre) - Tool to remove unused parts of the specs.
 - [rspec_tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.
 - [super-diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
