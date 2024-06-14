@@ -84,6 +84,7 @@ A curated list of awesome RSpec-related resources
 - [retest](https://github.com/AlexB52/retest) - A simple CLI to watch file changes and run their matching ruby specs.
 - [rspectre](https://github.com/dgollahon/rspectre) - Tool to remove unused parts of the specs.
 - [rspec_tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.
+- [rspec-wait](https://github.com/laserlemon/rspec-wait) - Wait for conditions in RSpec.
 - [super-diff](https://github.com/mcmire/super_diff) - A more helpful way to view differences between complex data structures in RSpec.
 - [test-prof](https://github.com/test-prof/test-prof) - Tools to analyze test suite performance +helpers to write faster tests.
 - [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
