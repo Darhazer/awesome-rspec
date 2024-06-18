@@ -67,6 +67,7 @@ A curated list of awesome RSpec-related resources
 - [flatware](https://github.com/briandunn/flatware) - A parallel test runner for RSpec and Cucumber with pretty output.
 - [knapsack](https://github.com/KnapsackPro/knapsack) - Knapsack splits tests evenly across parallel CI nodes to run fast CI build and save you time.
 - [parallel_tests](https://github.com/grosser/parallel_tests) - Speedup tests by running parallel on multiple CPU cores.
+- [rspec-distrib](https://github.com/toptal/test-distrib/tree/main/rspec-distrib) - Run specs in parallel on multiple machines.
 - [rspecq](https://github.com/skroutz/rspecq) - Distribute and run RSpec suites among parallel workers; for faster CI builds.
 - [test-queue](https://github.com/tmm1/test-queue) - Parallel test runner for CI environments
 
