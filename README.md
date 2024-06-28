@@ -70,6 +70,7 @@ A curated list of awesome RSpec-related resources
 - [rspec-distrib](https://github.com/toptal/test-distrib/tree/main/rspec-distrib) - Run specs in parallel on multiple machines.
 - [rspecq](https://github.com/skroutz/rspecq) - Distribute and run RSpec suites among parallel workers; for faster CI builds.
 - [test-queue](https://github.com/tmm1/test-queue) - Parallel test runner for CI environments
+- [turbo_tests](https://github.com/serpapi/turbo_tests) - Like parallel_tests but with incremental summarized output.
 
 ## Tools
 - [chefspec](https://github.com/chefspec/chefspec) - Write RSpec examples and generate coverage reports for Chef recipes.
@@ -91,3 +92,4 @@ A curated list of awesome RSpec-related resources
 - [vcr](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
 - [with_model](https://github.com/Casecommons/with_model) - Dynamically build an Active Record model (with table) within a test context.
 - [yardspec](https://github.com/r7kamura/yardspec) Run RSpec examples embedded in yard
+- [zapata](https://github.com/Nedomas/zapata) - An Automatic Automated Test Writer
