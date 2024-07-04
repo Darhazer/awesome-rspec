@@ -30,15 +30,15 @@ A curated list of awesome RSpec-related resources
 - [Using RSpec Metadata](https://semaphoreci.com/community/tutorials/using-rspec-metadata)
 
 ## Matchers
-- [rspec-any_of](https://github.com/toptal/rspec-any_of) - Provides `any_of` and `all_of` matchers.
 - [action_mailer_matchers](https://github.com/contently/action_mailer_matchers) - RSpec matchers to test Rails' common ActionMailer functionality.
-- [active_record_block_matchers](https://github.com/nwallace/active_record_block_matchers) - Custom RSpec matchers for ActiveRecord record creation.
+- [active_record_change_matchers](https://github.com/Darhazer/active_record_change_matchers) - Custom RSpec matchers for ActiveRecord record creation.
 - [db-query-matchers](https://github.com/sds/db-query-matchers) - RSpec matchers for database queries made by ActiveRecord.
 - [mongoid-rspec](https://github.com/mongoid/mongoid-rspec) - RSpec matchers for Mongoid.
 - [human_time](https://github.com/allenan/human_time) - Time and date comparisons for humans.
 - [n_plus_one_control](https://github.com/palkan/n_plus_one_control) - Matchers to ensure code doesn't produce N+1 queries.
 - [pundit-matchers](https://github.com/pundit-community/pundit-matchers) - A set of RSpec matchers for testing Pundit authorisation policies.
 - [resque_spec](https://github.com/leshill/resque_spec) - A test double of Resque for RSpec.
+- [rspec-any_of](https://github.com/toptal/rspec-any_of) - Provides `any_of` and `all_of` matchers.
 - [rspec-graphql_matchers](https://github.com/khamusa/rspec-graphql_matchers) - GraphQL matchers.
 - [rspec-json_matchers](https://github.com/PikachuEXE/rspec-json_matchers) - A collection of RSpec matchers for testing JSON data.
 - [rspec-benchmark](https://github.com/piotrmurach/rspec-benchmark) - Performance testing matchers for RSpec.
